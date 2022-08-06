@@ -1,0 +1,30 @@
+{
+  "name": "completed-todo-list",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Powell",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfutch87/ToDoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tfutch87/ToDoList/issues"
+  },
+  "homepage": "https://github.com/tfutch87/ToDoList#readme",
+  "description": ""
+}
